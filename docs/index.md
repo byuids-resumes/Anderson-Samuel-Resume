@@ -5,7 +5,7 @@ title: Sam Anderson's Resume
 # Sam Anderson
 
 <div id="webaddress">
-<a href="https://www.gmail.com">sanderson0398@gmail.com</a>
+<a href="mailto:sanderson0398@gmail.com">sanderson0398@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/samuel-b-anderson/">LinkedIn</a>
 | <a href="https://github.com/sanderson0398">GitHub</a>
@@ -26,24 +26,25 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 `Dec 2019 – April 2020`
 ### Internships
+
 __Madison Liberty Institute__, Policy Anylist
 - Researched proposed state legislation to inform community
 - Drafted bill summaries for the community outreach department
 
 `Jan 2020 – July 2020`
 ### Idaho Economic Indicator Research Project   
-- Created quarterly publication of current economic trends in Idaho with graphs made in Tableau
+- Created quarterly publication of current economic trends in Idaho.
+- Utilized Tableau to create visual documentation and charts
 - Collected and analyzed 21 different indicators of economic health in 15 metropolitan areas of Idaho
 
-
 `January 2020 - April 2020`
-__Data Science Socity__, team member
-- gathered data of fire hydrant loacations in county
-- calucalte how much water the fire dept. can devlier to any given area in the county
-- created visualization of county areas that either meet or fail to meet state regulation
+__Data Science Society__, Team Member
+- Gathered data of fire hydrant loacations in county
+- Created visualization of county areas that either meet or fail to meet state regulation
+- Calculated how much water the fire dept. can devlier to any given area in the county
+
 
 ## Service and Work History
-
 
 `2016-2018`
 __Service Missionary__, Nampa, Idaho
